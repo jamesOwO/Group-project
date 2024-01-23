@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 8de0a60e7cc1e2f468dc6f92328f6dae
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3412
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286ee334803ddef49bc9f72cc6eb6716
+      internalID: -1186703525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_2
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3412
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1397cd66c3e37240996e28df4450d60
+      internalID: -958614843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_3
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 3412
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0fb2537492de646aa45b5ca058fd85
+      internalID: -1850044078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_4
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 3412
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66080e0d90db90b4394a1157c9d71baa
+      internalID: -1880154284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_5
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 3412
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24acd5a904a568340b3befe850160463
+      internalID: 2110638719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_6
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 3412
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e95d3d2de4356847a726d058a2ee175
+      internalID: -686102103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2736
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8761faf50495e1d4ba3e046a991e3ec0
+      internalID: 1720755374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_9
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2736
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c5646a94b88234291b70d97bded647
+      internalID: -747537385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_10
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 2123
+        width: 384
+        height: 605
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e4756d5e6539f4184d444140b752f8
+      internalID: 1434937206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_11
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2736
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb7e683c65d2b74da7a2856ed3f4585
+      internalID: -1165673746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_12
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 2736
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f11f44763b49a4ab46566a89ead8cc
+      internalID: -1628721543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_13
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 2736
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce16d578eed9554da6b2951d046d42f
+      internalID: 1268512393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2123
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8017cfddbe387ff40a437794e0f86448
+      internalID: -205473451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_16
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2113
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40389ffa927f6947bb394e2665a28b6
+      internalID: 503296259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_17
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2727
+        width: 384
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8986f397fc0194aa80fdd25707142a
+      internalID: -1623947149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_18
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 2109
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d7318dc5e37694395f813cf72f43aa
+      internalID: -1766402997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_19
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 2102
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d51d6450e065484da1c2baafd2efdfe
+      internalID: 1553658043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_20
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 2102
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5dfa872b49bdf4dbb50ec4b5811706
+      internalID: 1019092034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_22
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1376
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9965dfee638674baa97ed26dc0e641
+      internalID: 101009297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_23
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1376
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038cd8d29e7c5644eae8687ee31b7434
+      internalID: 17075537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_24
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1355
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e7f25401c352244a3d0b410c9469af
+      internalID: -1767739471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_25
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1335
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dd55dbdcab6a04890ad4ab1583e8db
+      internalID: 637552743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_26
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1342
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caa5261e68e3754f82273fc6fa2197d
+      internalID: -148255365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_29
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 735
+        width: 408
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7e12964f342e8498a59f5135aeb1d7
+      internalID: 910717970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_30
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 747
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ce781aa79f4ba4997c215029a283aa
+      internalID: -602107063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_31
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 722
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237b19b2eff8eca4a8f080bf8d9ce7c8
+      internalID: -626848178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_32
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 728
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334249d0b120b0e4ebf463260bab0fae
+      internalID: 1898274314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_33
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 714
+        width: 384
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa022c12eec64aa4985de6208bd8ff76
+      internalID: -610977768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Shark ps ver_36
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 119
+        width: 408
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ef5a4d01620dd45b2c1b1d52abc5ec
+      internalID: 233461891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: caa3e9c0d29a5ca4a960268e7e88ea94
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprite sheet Shark ps ver_11: -1165673746
+      Sprite sheet Shark ps ver_17: -1623947149
+      Sprite sheet Shark ps ver_18: -1766402997
+      Sprite sheet Shark ps ver_26: -148255365
+      Sprite sheet Shark ps ver_5: 2110638719
+      Sprite sheet Shark ps ver_16: 503296259
+      Sprite sheet Shark ps ver_33: -610977768
+      Sprite sheet Shark ps ver_12: -1628721543
+      Sprite sheet Shark ps ver_41: -1578898347
+      Sprite sheet Shark ps ver_35: 1524335184
+      Sprite sheet Shark ps ver_36: 233461891
+      Sprite sheet Shark ps ver_4: -1880154284
+      Sprite sheet Shark ps ver_30: -602107063
+      Sprite sheet Shark ps ver_25: 637552743
+      Sprite sheet Shark ps ver_21: -1913088962
+      Sprite sheet Shark ps ver_3: -1850044078
+      Sprite sheet Shark ps ver_9: -747537385
+      Sprite sheet Shark ps ver_20: 1019092034
+      Sprite sheet Shark ps ver_10: 1434937206
+      Sprite sheet Shark ps ver_28: 1531769319
+      Sprite sheet Shark ps ver_15: -205473451
+      Sprite sheet Shark ps ver_40: 868976330
+      Sprite sheet Shark ps ver_32: 1898274314
+      Sprite sheet Shark ps ver_27: 1861864755
+      Sprite sheet Shark ps ver_0: -1840156033
+      Sprite sheet Shark ps ver_2: -958614843
+      Sprite sheet Shark ps ver_1: -1186703525
+      Sprite sheet Shark ps ver_31: -626848178
+      Sprite sheet Shark ps ver_6: -686102103
+      Sprite sheet Shark ps ver_34: 185250009
+      Sprite sheet Shark ps ver_39: -2003047795
+      Sprite sheet Shark ps ver_24: -1767739471
+      Sprite sheet Shark ps ver_29: 910717970
+      Sprite sheet Shark ps ver_7: 1508100550
+      Sprite sheet Shark ps ver_14: 1558918479
+      Sprite sheet Shark ps ver_22: 101009297
+      Sprite sheet Shark ps ver_37: 284547135
+      Sprite sheet Shark ps ver_13: 1268512393
+      Sprite sheet Shark ps ver_8: 1720755374
+      Sprite sheet Shark ps ver_19: 1553658043
+      Sprite sheet Shark ps ver_23: 17075537
+      Sprite sheet Shark ps ver_38: 1932105719
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
