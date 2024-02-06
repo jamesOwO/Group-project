@@ -115,6 +115,54 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -742,7 +790,7 @@ TextureImporter:
       Sprite sheet Shark ps ver_17: -1623947149
       Sprite sheet Shark ps ver_18: -1766402997
       Sprite sheet Shark ps ver_26: -148255365
-      Sprite sheet Shark ps ver_5: 2110638719
+      Sprite sheet Shark ps ver_19: 1553658043
       Sprite sheet Shark ps ver_16: 503296259
       Sprite sheet Shark ps ver_33: -610977768
       Sprite sheet Shark ps ver_12: -1628721543
@@ -776,10 +824,10 @@ TextureImporter:
       Sprite sheet Shark ps ver_22: 101009297
       Sprite sheet Shark ps ver_37: 284547135
       Sprite sheet Shark ps ver_13: 1268512393
-      Sprite sheet Shark ps ver_8: 1720755374
-      Sprite sheet Shark ps ver_19: 1553658043
-      Sprite sheet Shark ps ver_23: 17075537
       Sprite sheet Shark ps ver_38: 1932105719
+      Sprite sheet Shark ps ver_5: 2110638719
+      Sprite sheet Shark ps ver_23: 17075537
+      Sprite sheet Shark ps ver_8: 1720755374
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

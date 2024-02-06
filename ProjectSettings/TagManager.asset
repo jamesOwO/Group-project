@@ -11,9 +11,9 @@ TagManager:
   - 
   - Water
   - UI
+  - pp
   - 
-  - 
-  - 
+  - game
   - 
   - 
   - 
@@ -41,6 +41,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: player1
+  - name: game
     uniqueID: 3553430333
     locked: 0
